@@ -69,7 +69,6 @@ news-explorer/
 
 ---
 
-## Screenshots
 
 
 ## License
